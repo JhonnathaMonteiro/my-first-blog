@@ -1,6 +1,4 @@
-from django.contrib import admin
-
-# Register your models here.
+"""Registro do modelo aqui"""
 from django.contrib import admin
 from .models import Post
 
